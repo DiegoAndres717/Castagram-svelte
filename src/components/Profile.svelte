@@ -32,7 +32,7 @@
 <div class="Profile">
     <div class="Profile-content">
         <div class="Profile-avatar">
-            <img src="https://pps.whatsapp.net/v/t61.24694-24/262304261_375537471255203_2272625740834001136_n.jpg?ccb=11-4&oh=01_AVwULhALma466RzTHHMCXRwN8nvi1LWmbVaCEIP66URZ6A&oe=63519AE0" alt="Perfil">
+            <img src="https://images.pexels.com/photos/617278/pexels-photo-617278.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Perfil">
         </div>
         <div class="Profile-info">
             <h2>{nickname}</h2>
